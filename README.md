@@ -1,2 +1,7 @@
 # Agentic-documentation
 Using Cursor's agent to create documentation for existing codebases
+
+
+Tasks
+- Clone full stack projects from git
+- Prepare stepwise prompts for creating high-level and low-level documentation
