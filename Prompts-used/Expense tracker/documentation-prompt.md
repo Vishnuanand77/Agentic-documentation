@@ -101,4 +101,4 @@ DOCUMENTATION STYLE GUIDELINES:
 - Concise, technical language
 - Document key decisions and rationale
 
-Complete each step fully before moving to the next. Please ask for clarifications, do not assume anything.
+Complete each step fully before moving to the next. Please ask for clarifications, do not assume anything. Do not add or change anything that is not represented in the codebase
