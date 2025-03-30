@@ -12,3 +12,13 @@ Tasks
 - Improvements:
     - Can provide project context
     - Mention Documentation folder already exists
+
+# Prompt 2
+- Used on BookYourTrek
+- Improved on previous improvements
+- Used to verify tangibility of documentation
+
+# Prompt 3
+- Created a fresh project from scratch
+- Used same prompt to generate documentation
+- Compared with original documentation for testing accuracy
